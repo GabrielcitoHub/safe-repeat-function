@@ -3,11 +3,11 @@
 Repeats the amount of times specified by the first argument.
 
 ## Versions v1.2 or later require runLater to work.
-You can download runLater at: https://github.com/Manuel-3/figura-scripts/tree/main/src/runLater
-once downloaded and setup you would be ready to use this script withouth annoying errors.
+
+You can download runLater at: https://github.com/Manuel-3/figura-scripts/tree/main/src/runLater.
+Once downloaded and setup you will be ready to use this script.
 
 ## How to use
-
 
 Download the file at releases and put it next to your other files in your avatar.
 
