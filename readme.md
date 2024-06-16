@@ -1,8 +1,10 @@
-# Versions v1.2 or later require runLater to work, if runLater is not found it will give an error.
-
 # Safe Repeat (repeat function that doesnt crashes your game)
 
-Schedules a function to run after a specified amount of ticks or when a predicate function returns true.
+Repeats the amount of times specified by the repeats argument.
+
+# Versions v1.2 or later require runLater to work.
+You can download runLater at: https://github.com/Manuel-3/figura-scripts/tree/main/src/runLater
+once downloaded and setup you would be ready to use this script withouth annoying errors.
 
 ## How to use
 
