@@ -10,9 +10,9 @@ Then use the example code below in *another script* (dont edit the downloaded fi
 
 Example:
 ```lua
-require("safeRepeat")
+safeRepeat = require("safeRepeat")
 
-SafeRepeat(3,function()
-log("This messaage will get repeated 3 times!")
+safeRepeat(3,function()
+  log("hello")
 end)
 ```
