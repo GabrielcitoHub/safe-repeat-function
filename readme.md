@@ -4,7 +4,7 @@ Schedules a function to run after a specified amount of ticks or when a predicat
 
 ## How to use
 
-Download the file and put it next to your other files in your avatar.
+Download the file at releases and put it next to your other files in your avatar.
 
 Then use the example code below in *another script* (dont edit the downloaded file).
 
